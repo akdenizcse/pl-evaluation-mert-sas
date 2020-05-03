@@ -94,9 +94,9 @@ DATALINES;
  4 61 101 F 45
  ;
 
-   PROC PRINT;
-   	TITLE 'Example 1';
-   RUN;
+PROC PRINT;
+ TITLE 'Example 1';
+RUN;
 ```
 
 - ***To create a plot from custom table:***
